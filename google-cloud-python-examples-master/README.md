@@ -46,6 +46,3 @@ This is the list of examples:
 * [gcloudstoragecopy](/gcloudstoragecopy) - Google Cloud Storage Copy: Example of how to handle Cloud Storage buckets and copy an object from a Google Storage bucket to another Google Storage bucket in a Google Cloud Project. It uses the Google Cloud Client Library.
 * [gcloudstoragemove](/gcloudstoragemove) - Google Cloud Storage Move: Example of how to handle Cloud Storage buckets and move an object from a Google Storage bucket to another Google Storage bucket in a Google Cloud Project. It uses the Google Cloud Client Library.
 
-## License
-
-This code is released under the MIT License. See LICENSE file.
